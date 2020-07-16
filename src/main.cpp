@@ -190,10 +190,10 @@ void setup() {
 ///////////////////////////////////////////////////////////////////////////////
 void loop() {
  
-  gspSwitch::checkAll();
-  gspFlash::checkAll();
-  gspSeven::checkAll();
-  gspSerialResponse::checkAll();
+    gspSwitch::checkAll();
+    gspFlash::checkAll();
+    gspSerialResponse::checkAll();
+    gspSeven::checkAll();
 
 }
 ///////////////////////////////////////////////////////////////////////////////
